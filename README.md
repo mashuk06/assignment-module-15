@@ -2,7 +2,8 @@
 <p>To run the project</p>
 ```bash
 npm run dev
-
+```
+```bash
 php artisan serve
 ```
 
