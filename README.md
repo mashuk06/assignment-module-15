@@ -1,10 +1,10 @@
-<p>All questions are answered of this module and included in the component. Run the project to get all the answers.</p>
-<p>To run the project</p>
+To run the project:
 ```bash
 npm run dev
 
 php artisan serve
 ```
+<p>All questions are answered of this module and included in the component. Run the project to get all the answers.</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
