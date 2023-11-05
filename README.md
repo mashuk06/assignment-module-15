@@ -1,7 +1,8 @@
 To run the project:
 ```bash
 npm run dev
-
+```
+```bash
 php artisan serve
 ```
 <p>All questions are answered of this module and included in the component. Run the project to get all the answers.</p>
